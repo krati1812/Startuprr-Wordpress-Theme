@@ -4,4 +4,5 @@ It is a very nice bootstrap enabled responsive theme integrated with the Wordpre
 By using this theme, anyone can change content dynamically. 
 Link: http://startuprr.co.nf
 
-Please install all the required plugins.
+When using this theme, don't forget to install all the plugins required for the page functionality.
+
